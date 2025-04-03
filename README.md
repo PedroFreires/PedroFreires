@@ -6,6 +6,9 @@
 
 <h1 align="center">Olá, me chamo Pedro Freires!!</h1>
 
+<p>💻 Estou Trabalhando como Back-End <br>
+📚 Atualmente estudo Java e SpringBoot</p>
+
 ###
 
 <div align="center">
