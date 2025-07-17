@@ -6,7 +6,7 @@
 
 <h1 align="center">Olá, me chamo Pedro Freires!!</h1>
 
-<p>💻 Estou Trabalhando como Back-End <br>
+<p>💻 Estou Trabalhando como dev Android <br>
 📚 Atualmente estou estudando Kotlin e desenvolvimento Android 👾</p>
 
 ###
